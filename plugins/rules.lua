@@ -9,8 +9,8 @@
 --       Developers: @Josepdal & @MaSkAoS       --
 --     Support: @Skneos,  @iicc1 & @serx666     --
 --                                              --
---			Created by @Josepdal & @A7F			--
---												--
+--			Created by @Josepdal & @A7F			        --
+--												                      --
 --------------------------------------------------
 
 local function set_rules_channel(msg, text)
